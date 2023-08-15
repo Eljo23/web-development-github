@@ -1,3 +1,2 @@
-Thid is aagain a commit
-
-And here we go with commit number 2
+Thid is again a commit
+Commit number 2 here we go
